@@ -1,0 +1,10 @@
+patch:
+  translator/dictionary: luna_pinyin_simp.extended
+  punctuator/full_shape: 
+    "\"": {pair: ["「", "」"]}
+    "[": "【"
+    "]": "】"
+  punctuator/half_shape:
+    "\"": {pair: ["「", "」"]}
+    "[": "【"
+    "]": "】"
