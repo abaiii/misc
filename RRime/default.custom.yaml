@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Aug  6 20:15:06 2022"
+  rime_version: 1.5.3
+patch:
+  schema_list:
+    - {schema: luna_pinyin_simp}
+
+  key_binder/bindings:
+    - {accept: minus, send: Page_Up, when: composing}
+    - {accept: equal, send: Page_Down, when: composing}
+  menu/page_size: 7
