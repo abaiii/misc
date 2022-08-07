@@ -3,21 +3,21 @@ version: "1"
 sort: by_weight
 
 import_tables:
-  - rime/clover.base
-  - rime/clover.phrase
-  - rime/THUOCL_animal
-  - rime/THUOCL_caijing
-  - rime/THUOCL_car
-  - rime/THUOCL_chengyu
-  - rime/THUOCL_diming
-  - rime/THUOCL_food
-  - rime/THUOCL_IT
-  - rime/THUOCL_law
-  - rime/THUOCL_lishimingren
-  - rime/THUOCL_medical
-  - rime/THUOCL_poem
-  - rime/sogou_new_words
-  - rime/1
-  - rime/2
-  - rime/moegirl
-  - rime/zhwiki
+  - clover.base
+  - clover.phrase
+  - THUOCL_animal
+  - THUOCL_caijing
+  - THUOCL_car
+  - THUOCL_chengyu
+  - THUOCL_diming
+  - THUOCL_food
+  - THUOCL_IT
+  - THUOCL_law
+  - THUOCL_lishimingren
+  - THUOCL_medical
+  - THUOCL_poem
+  - sogou_new_words
+  - 1
+  - 2
+  - moegirl
+  - zhwiki
